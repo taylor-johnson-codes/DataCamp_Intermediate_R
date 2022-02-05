@@ -1,3 +1,6 @@
+# Use "break" to completely break out of the loop
+# Use "next" to skip the current iteration and continue on in the loop
+
 # WHILE LOOP
 
 # Initialize the speed variable
