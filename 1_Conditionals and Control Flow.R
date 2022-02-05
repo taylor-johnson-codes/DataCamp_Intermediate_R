@@ -1,3 +1,10 @@
+is.numeric(5)  # prints TRUE
+
+#   &    |    !
+#  and  or   not
+
+# && || would only evaluate the first element in a vector
+
 # Comparison of logicals
 TRUE == FALSE  # prints FALSE
 
@@ -80,7 +87,8 @@ extremes <- (second  > 25) | (second < 5)
 sum(extremes)
 
 
-#IF STATEMENT
+# IF STATEMENT
+# (ELSE IF and ELSE have to start on the same line as the previous closing bracket)
 
 # Variables related to your last day of recordings
 medium <- "LinkedIn"
